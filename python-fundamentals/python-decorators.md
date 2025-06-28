@@ -7,5 +7,3 @@ This notebook serves as a practical guide to understanding how decorators work, 
 📘 Explore the Notebook:
 The complete learning material is available in the [📓 View the Jupyter Notebook](decorators.ipynb)Jupyter notebook.
 
-## Python Closures
-
